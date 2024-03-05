@@ -1,4 +1,4 @@
-import { curve1, curve2 } from "../../assets";
+import { curve1, curve2 } from "../../assests";
 
 export const RightCurve = () => {
   return (
